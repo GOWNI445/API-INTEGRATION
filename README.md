@@ -12,4 +12,6 @@ Duration:6 Weeks
 Mentor:Neela Santhosh Kumar
 Description:I am Gowni Indu.I am pursuing B Tech final year.By using visual studio code to execute this files. By using HTML,CSS and JAVASCIPT to run the code.I am very happy for joining the CODTECH IT SOLUTIONS. I am completed Task 1 has the API INTEGRATION. API INTEGRATION MEANS The process of connecting two or more applications or systems by using APIS to exchange data and perform actions.
 
-output: C:\Users\Dell\Pictures\Screenshots\Screenshot (3).png
+output: 
+![Screenshot (3)](https://github.com/user-attachments/assets/71bb7847-58bc-4f11-b5e5-eb909a03f27c)
+
